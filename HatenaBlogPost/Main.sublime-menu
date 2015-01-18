@@ -1,0 +1,10 @@
+[
+	{
+		"id": "tools",
+		"children":
+		[
+			{"id": "hatenablogpost"},
+			{"command": "hatenablogpost"}
+		]
+	}
+]
